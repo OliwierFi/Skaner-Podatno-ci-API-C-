@@ -9,13 +9,13 @@ A multi-threaded security tool designed to perform rapid reconnaissance and vuln
 * **Method Tampering:** Identifies insecure HTTP methods allowed on sensitive endpoints.
 * **Performance:** Utilizes `libcurl` for efficient, asynchronous network communication.
 
-## 🚀 Tech Stack
+##  Tech Stack
 * **Language:** C++17
 * **Networking:** [libcurl](https://curl.se/libcurl/)
 * **Build System:** CMake
 * **JSON Parsing:** [nlohmann/json](https://github.com/nlohmann/json)
 
-## 🛠️ Installation & Build
+##  Installation & Build
 1. Install dependencies: `sudo apt install libcurl4-openssl-dev`
 2. Clone the repo: `git clone https://github.com/TWOJA_NAZWA/CppApiScanner.git`
 3. Build:
