@@ -1,0 +1,10 @@
+# Binary files
+build/
+bin/
+*.out
+*.o
+*.exe
+
+# IDEs
+.vscode/
+.idea/
